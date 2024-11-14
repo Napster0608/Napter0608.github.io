@@ -24176,7 +24176,7 @@ _.f=c
 _.r=d
 _.w=e
 _.x=f
-_.y="ArduinoPage"
+_.y="LegosPage"
 _.ax=_.at=_.as=_.z=$
 _.c=_.a=null},
 akP:function akP(a,b){this.a=a
